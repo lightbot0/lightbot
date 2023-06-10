@@ -1,12 +1,12 @@
 {
-    "ownerNumber": ["6289517185039@s.whatsapp.net","6289517185039@s.whatsapp.net"],
-    "ownerName": "Call Me Zaa🐧",
-    "instagram" : "https://instagram.com/nicetry.zaa._",
-    "botName": "Pizzaa🐧-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["+201128837056@s.whatsapp.net"]
+    "ownerName": "Light",
+    "instagram" : "https://www.instagram.com/flikelkobtan.1",
+    "botName": "LIGHT BOT ",
+    "footer": "LightBot",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "./Light.jpg",
     "BotKey": "VdFlEL76",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
